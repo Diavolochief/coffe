@@ -229,13 +229,12 @@ margin-bottom: 10px;
 }
 .contenedor1{
    display: grid;
-    grid-template-columns: 650px;
-    row-gap: 10px;
-    grid-template-rows: 2fr 2fr 2fr 2fr;
+    grid-template-columns: 650px 650px;
+    grid-template-rows: 2fr 2fr ;
+    grid-gap: 100px;
 border: solid white;
-grid-gap : 15px;
+/* grid-gap : 15px; */
 justify-content: center;
-margin-bottom: 100px;
 padding: 100px;
 
 }
