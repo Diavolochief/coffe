@@ -246,7 +246,7 @@ padding: 100px;
     margin: auto;
     width: 640px;
  text-align: center;
- box-shadow: 10px 10px  rgb(36, 36, 36);
+ box-shadow: 10px 10px  rgb(250, 82, 63);
 
 }
 @media(max-width:1048px){
@@ -351,7 +351,7 @@ padding: 100px;
         margin: auto;
         width: 450px;
      text-align: center;
-     box-shadow: 5px 10px rgb(73, 72, 72);
+     box-shadow: 5px 10px rgb(250, 82, 63);
     
     }
        
@@ -375,7 +375,7 @@ padding: 100px;
         padding: 5px;
         border-radius: 1%;
         font-size: 15px;
-        box-shadow: 10px 10px  #333;
+        box-shadow: 10px 10px  rgb(250, 82, 63);
     
     }
     .fin-hr{
